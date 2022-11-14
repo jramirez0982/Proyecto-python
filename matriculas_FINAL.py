@@ -1,6 +1,7 @@
 # Programa de registro academico para matricular estudiantes, cursos, con nota, final y estatus de aprobado
 # { nombre1 : [ [curso1, creditos1, nota1], [curso2, creditos2, nota2] ] }
 from importlib.machinery import SourceFileLoader
+#comentario
 
 
 list()
